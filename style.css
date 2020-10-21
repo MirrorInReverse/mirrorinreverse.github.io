@@ -3,3 +3,7 @@ h1{
   color:#191970;
   font-size: 25px;
 }
+p.fancy{
+  color:#00bfff;
+  font-style: chalkduster;
+}
