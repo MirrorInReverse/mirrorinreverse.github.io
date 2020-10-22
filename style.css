@@ -1,9 +1,20 @@
-h1{
-  background-color:#87CEFA;
-  color:#191970;
-  font-size: 25px;
+body {
+  background: #d3c433;
+  font-family: times new roman;
 }
-p.fancy{
-  color:#00bfff;
-  font-style: chalkduster;
+h1 {
+  font-size: 26px;
+  font-family: arial narrow;
+  font-variant: small-caps;
+  color: #0a582e;
+}
+h2 {
+  font-size: 24px;
+  font-family: arial narrow;
+  font-variant: small-caps;
+  color: #0a582e;
+}
+p {
+  font-size: 16px;
+  color: black;
 }
