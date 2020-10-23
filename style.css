@@ -1,5 +1,5 @@
 body {
-  background:  #a9ebff;
+  background: #9be6fd;
   font-family: times new roman;
 }
 h1 {
@@ -8,8 +8,8 @@ h1 {
   font-variant: small-caps;
   color: #0a582e;
 }
-p.fancy {
+p {
   font-size: 16px;
   color: black;
-  font-style: oblique;
+  font-stretch: condensed;
 }
